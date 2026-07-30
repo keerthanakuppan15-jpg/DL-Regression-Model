@@ -128,18 +128,14 @@ print(f"\nPrediction for x = 120:  {y_new_pred:.8f}")
 ```
 
 ### Dataset Information
-
 <img width="1437" height="740" alt="image" src="https://github.com/user-attachments/assets/30d023ec-22b2-47ee-b29c-2a73572dc86d" />
-
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
 <img width="1315" height="617" alt="image" src="https://github.com/user-attachments/assets/a905b82a-3aff-4d1e-8514-d4b478a0c696" />
 
-
 ### New Sample Data Prediction
 <img width="1056" height="618" alt="image" src="https://github.com/user-attachments/assets/c9e782fa-eeb3-4d11-a791-7d88136e19e8" />
-
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
